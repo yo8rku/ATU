@@ -1,0 +1,5 @@
+1.  Put the update.exe utility and the mchf_at.aes firmware in one folder.
+2. Install a jumper on the tuner's BOOT connector.
+3. From the command line, run the update utility with the following parameters: 
+	update mchf_at.aes -COM1 -19200
+4. Wait while process been finished.
